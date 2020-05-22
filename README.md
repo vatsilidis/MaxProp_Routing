@@ -12,3 +12,6 @@ Was first introduced by Burgess, J.; Gallagher, Brian; Jensen, D.; Levine, B.N.,
 ## Run
 To run it you must dowload the ONE simulator. ONE is a simulator used exclusively to simulate DTNs networks. It is implemented in Java and also has an advanced GUI. This is an [advanced documentation of ONE] (http://www.netlab.tkk.fi/tutkimus/dtn/theone/javadoc_v141/)
 
+
+## Contributors
+* [Lampros Vatsilidis](https://www.linkedin.com/in/lamprosvatsilidis/)
